@@ -1,15 +1,15 @@
 # mineConfig
 
-# Tres-Cafés
 
 ## Tabla de contenidos
-* [Equipo](#equipo)
-    * [Integrantes](#integrantes)
-    * [Ayudante](#ayudante)
+* [Mods](#mods)
+    * [Forge](#forge)
+    * [ForgeMods](#forgemod)
 * [Proyecto](#proyecto)
     * [Instrucciones](#instrucciones)
     * [Notas](#notas)
 
+#Mods
 
 
 # Proyecto
