@@ -23,7 +23,7 @@
               "_comment": "halve the cave spider's max health",
               "function": "modifier",
               "attribute": "generic.maxHealth",
-              "value": +2.0,
+              "value": +1.0,
               "operator": 1
             }
           ]

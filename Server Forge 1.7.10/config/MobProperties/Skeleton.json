@@ -2,5 +2,24 @@
   "_name": "Skeleton",
   "drops": [],
   "pre_stats": [],
-  "stats": []
+  "stats": [
+  {
+		"function": "all",
+      "_comment": "this count effectively means only perform the function 5% of the time",
+      "count": 0.99,
+      "functions":[
+		{
+          "function": "nbt",
+          "tags": [
+            {
+              "function": "boolean",
+              "name": "Anger",
+              "value": false
+            }
+          ]
+        }		
+		]
+		}
+		]
+		
 }

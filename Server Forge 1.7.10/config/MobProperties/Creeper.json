@@ -19,6 +19,11 @@
               "function": "boolean",
               "name": "powered",
               "value": true
+            },
+            {
+              "function": "boolean",
+              "name": "Anger",
+              "value": false
             }
           ]
         }		
